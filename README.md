@@ -9,6 +9,7 @@
 | [0046-permutations](https://github.com/pritam180802/Coding_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/pritam180802/Coding_Problems/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/pritam180802/Coding_Problems/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pritam180802/Coding_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/pritam180802/Coding_Problems/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
@@ -34,8 +35,21 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/pritam180802/Coding_Problems/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/pritam180802/Coding_Problems/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pritam180802/Coding_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pritam180802/Coding_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pritam180802/Coding_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pritam180802/Coding_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pritam180802/Coding_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
