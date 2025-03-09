@@ -32,7 +32,7 @@ class Solution {
         solve(index+1,arr,target,temp,ans);
     }
     vector<vector<int>> combinationSum(vector<int> &arr, int target) {
-        sort(arr.begin(),arr.end());
+        sort(arr.begin(),arr.end());  // Sorting helps to group duplicate elements together, which ensures that the same combination is not counted multiple times in different orders.
         vector<vector<int>>ans;
         vector<int>temp;
         solve(0,arr,target,temp,ans);
