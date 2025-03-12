@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/pritam180802/Coding_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/pritam180802/Coding_Problems/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/pritam180802/Coding_Problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/pritam180802/Coding_Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritam180802/Coding_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/pritam180802/Coding_Problems/tree/master/0283-move-zeroes) |
 ## Backtracking
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pritam180802/Coding_Problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/pritam180802/Coding_Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/pritam180802/Coding_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pritam180802/Coding_Problems/tree/master/0344-reverse-string) |
 ## String
@@ -36,6 +38,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/pritam180802/Coding_Problems/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/pritam180802/Coding_Problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/pritam180802/Coding_Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritam180802/Coding_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
