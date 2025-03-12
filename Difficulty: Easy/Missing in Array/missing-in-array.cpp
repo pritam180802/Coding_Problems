@@ -10,7 +10,7 @@ class Solution {
   public:
     int missingNumber(vector<int>& arr) {
         int n = arr.size()+1;
-        long long totalSum = n*(n+1LL)/2;
+        long long totalSum = n*(n+1LL)/2;  //1LL ensures that n + 1 is treated as a long long during the calculation.
         long long sum = 0;
         
         for(int i=0;i<arr.size();i++)
