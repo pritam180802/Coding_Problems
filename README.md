@@ -9,6 +9,7 @@
 | [0041-first-missing-positive](https://github.com/pritam180802/Coding_Problems/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/pritam180802/Coding_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/pritam180802/Coding_Problems/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/pritam180802/Coding_Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pritam180802/Coding_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pritam180802/Coding_Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritam180802/Coding_Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -51,6 +52,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pritam180802/Coding_Problems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritam180802/Coding_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritam180802/Coding_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pritam180802/Coding_Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
