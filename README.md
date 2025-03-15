@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/pritam180802/Coding_Problems/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/pritam180802/Coding_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pritam180802/Coding_Problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/pritam180802/Coding_Problems/tree/master/0041-first-missing-positive) |
@@ -26,6 +27,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/pritam180802/Coding_Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/pritam180802/Coding_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pritam180802/Coding_Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/pritam180802/Coding_Problems/tree/master/0283-move-zeroes) |
