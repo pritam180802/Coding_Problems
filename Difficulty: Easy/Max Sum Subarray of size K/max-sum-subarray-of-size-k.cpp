@@ -14,7 +14,7 @@ class Solution {
         for(int i=0;i<k;i++)
             sum += arr[i];
         int max = sum;
-        for(int j=1;j<=n-k;j++)
+        for(int j=1;j<=n-k;j++)  // Using Sliding window concept
         {
             sum -= arr[j-1];
             sum += arr[j+k-1];
