@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/pritam180802/Coding_Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritam180802/Coding_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pritam180802/Coding_Problems/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/pritam180802/Coding_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pritam180802/Coding_Problems/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pritam180802/Coding_Problems/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/pritam180802/Coding_Problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
