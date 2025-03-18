@@ -5,10 +5,9 @@ public:
         int maxprofit = INT_MIN;
         for(int i=0;i<prices.size();i++)
         {
-            if(prices[i]<mintillnow)
-              mintillnow = prices[i];
-            if(prices[i]-mintillnow > maxprofit)
-              maxprofit = prices[i]-mintillnow;
+            mintillnow = min(mintillnow , prices[i]);
+            int profit = prices[i]-mintillnow ;
+            maxprofit = max(maxprofit , profit);
         }
         return maxprofit;
     }
