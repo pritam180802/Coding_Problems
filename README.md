@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/pritam180802/Coding_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pritam180802/Coding_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pritam180802/Coding_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pritam180802/Coding_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritam180802/Coding_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pritam180802/Coding_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pritam180802/Coding_Problems/tree/master/0238-product-of-array-except-self) |
@@ -74,6 +75,7 @@
 | [0042-trapping-rain-water](https://github.com/pritam180802/Coding_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pritam180802/Coding_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pritam180802/Coding_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pritam180802/Coding_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
 |  |
 | ------- |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pritam180802/Coding_Problems/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pritam180802/Coding_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
