@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/pritam180802/Coding_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pritam180802/Coding_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pritam180802/Coding_Problems/tree/master/0283-move-zeroes) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pritam180802/Coding_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pritam180802/Coding_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/pritam180802/Coding_Problems/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/pritam180802/Coding_Problems/tree/master/0217-contains-duplicate) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pritam180802/Coding_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,4 +94,12 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pritam180802/Coding_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Math
+|  |
+| ------- |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pritam180802/Coding_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+## Counting
+|  |
+| ------- |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pritam180802/Coding_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
