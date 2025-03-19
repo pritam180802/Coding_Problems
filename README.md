@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pritam180802/Coding_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/pritam180802/Coding_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pritam180802/Coding_Problems/tree/master/0344-reverse-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/pritam180802/Coding_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Sorting
@@ -53,12 +54,14 @@
 | [0088-merge-sorted-array](https://github.com/pritam180802/Coding_Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritam180802/Coding_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pritam180802/Coding_Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pritam180802/Coding_Problems/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pritam180802/Coding_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/pritam180802/Coding_Problems/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/pritam180802/Coding_Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pritam180802/Coding_Problems/tree/master/0242-valid-anagram) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pritam180802/Coding_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/pritam180802/Coding_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Divide and Conquer
