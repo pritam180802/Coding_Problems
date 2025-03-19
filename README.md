@@ -21,6 +21,7 @@
 | [0238-product-of-array-except-self](https://github.com/pritam180802/Coding_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pritam180802/Coding_Problems/tree/master/0283-move-zeroes) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pritam180802/Coding_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/pritam180802/Coding_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pritam180802/Coding_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0344-reverse-string](https://github.com/pritam180802/Coding_Problems/tree/master/0344-reverse-string) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/pritam180802/Coding_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0041-first-missing-positive](https://github.com/pritam180802/Coding_Problems/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/pritam180802/Coding_Problems/tree/master/0217-contains-duplicate) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pritam180802/Coding_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/pritam180802/Coding_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,4 +105,8 @@
 |  |
 | ------- |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pritam180802/Coding_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+## Simulation
+|  |
+| ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/pritam180802/Coding_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
