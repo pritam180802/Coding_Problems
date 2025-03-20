@@ -8,24 +8,13 @@ public:
 
         for(int i=0;i<n;i++)
         {
-            if(nums[i]>0)
-            {
-                ma = max(nums[i],nums[i]*ma);
-                mi = min(nums[i],nums[i]*mi);
-                ans = max(ans,ma);
-            }
-            else if(nums[i]<0)
-            {
-                swap(mi,ma);
-                ma = max(nums[i],nums[i]*ma);
-                mi = min(nums[i],nums[i]*mi);
-                ans = max(ans,ma);
-            }
-            else
-            {
-                mi = ma = 1;
-                ans = max(ans,0);
-            }
+            if(nums[i]<0)
+              swap(mi,ma);
+            if(nums[i]==0)
+              mi=ma=1;
+            ma = max(nums[i],nums[i]*ma);
+            mi = min(nums[i],nums[i]*mi);
+            ans = max(ans,ma);
         }
         return ans;
     }
