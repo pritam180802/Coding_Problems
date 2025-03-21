@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/pritam180802/Coding_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pritam180802/Coding_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pritam180802/Coding_Problems/tree/master/0283-move-zeroes) |
+| [0792-binary-search](https://github.com/pritam180802/Coding_Problems/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/pritam180802/Coding_Problems/tree/master/1319-unique-number-of-occurrences) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pritam180802/Coding_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/pritam180802/Coding_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/pritam180802/Coding_Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/pritam180802/Coding_Problems/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
