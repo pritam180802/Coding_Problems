@@ -19,6 +19,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pritam180802/Coding_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pritam180802/Coding_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/pritam180802/Coding_Problems/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pritam180802/Coding_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritam180802/Coding_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pritam180802/Coding_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pritam180802/Coding_Problems/tree/master/0238-product-of-array-except-self) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pritam180802/Coding_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pritam180802/Coding_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/pritam180802/Coding_Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/pritam180802/Coding_Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
