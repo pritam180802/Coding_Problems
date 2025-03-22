@@ -6,7 +6,7 @@ public:
         int ans = -1;
         
         while(s<=e){
-            int mid = s + (e-s)/2;
+            int mid = s + (e-s)/2;   // Equal to (s+e)/2
             if(nums[mid]==target)
             {
                 e = mid-1;
