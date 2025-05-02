@@ -129,4 +129,12 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pritam180802/Coding_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/pritam180802/Coding_Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/pritam180802/Coding_Problems/tree/master/0882-peak-index-in-a-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pritam180802/Coding_Problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pritam180802/Coding_Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
