@@ -46,6 +46,7 @@
 | [0075-sort-colors](https://github.com/pritam180802/Coding_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pritam180802/Coding_Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pritam180802/Coding_Problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pritam180802/Coding_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/pritam180802/Coding_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pritam180802/Coding_Problems/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/pritam180802/Coding_Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -73,6 +74,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pritam180802/Coding_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/pritam180802/Coding_Problems/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/pritam180802/Coding_Problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pritam180802/Coding_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/pritam180802/Coding_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pritam180802/Coding_Problems/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/pritam180802/Coding_Problems/tree/master/1319-unique-number-of-occurrences) |
@@ -139,6 +141,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pritam180802/Coding_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/pritam180802/Coding_Problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pritam180802/Coding_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/pritam180802/Coding_Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pritam180802/Coding_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pritam180802/Coding_Problems/tree/master/0908-middle-of-the-linked-list) |
