@@ -10,8 +10,7 @@ struct ListNode *getIntersectionNode(struct ListNode *headA, struct ListNode *he
     struct ListNode *a,*b;
     a = headA;
     b = headB;
-    if(headA == headB)
-    return headA;
+    
     while(a){
         a = a->next;
         c1++;
